@@ -22,6 +22,7 @@ In order to meet the primary goal, I broke this analysis down into a number of o
 #### Part 2: Toronto Assault Overview 
 
 #### Part 3: Toronto's Neighbourhood Crime Rates Analysed & Mapped
+ - https://nbviewer.jupyter.org/github/yorken2/Toronto-Crime-Rates/blob/master/Toronto%27s%20Neighbourhood%20Crime%20Rates%20Analysed.ipynb
 
 ## Key Takeaways:
 
