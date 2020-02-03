@@ -1,5 +1,5 @@
 # Toronto-Crime-Rates
-## Learning objective: 
+## Learning Objective: 
 To gain experience loading, preparing and visualising a publicly available dataset in order to meet a primary objective. 
 
 ## Primary Goal: 
